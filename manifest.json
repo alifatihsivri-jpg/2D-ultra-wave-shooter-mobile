@@ -1,0 +1,22 @@
+{
+  "name": "Ultra Wave Shooter",
+  "short_name": "Wave Shooter",
+  "description": "2D Ultra Wave Shooter - The Murderer",
+  "start_url": "./savasoyunu76.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
